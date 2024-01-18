@@ -28,17 +28,17 @@ cd snake-game
 
 Python main.py
 
-##Controles
+## Controles
 
 Flecha Arriba: Mover la serpiente hacia arriba.
 Flecha Abajo: Mover la serpiente hacia abajo.
 Flecha Izquierda: Mover la serpiente hacia la izquierda.
 Flecha Derecha: Mover la serpiente hacia la derecha.
 
-##Puntuación
+## Puntuación
 
 El juego registra tu puntuación cada vez que comes la comida.
 
-##Contribuciones
+## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes alguna mejora o corrección, no dudes en enviar un pull request.
