@@ -31,9 +31,13 @@ Python main.py
 ## Controles
 
 Flecha Arriba: Mover la serpiente hacia arriba.
+
 Flecha Abajo: Mover la serpiente hacia abajo.
+
 Flecha Izquierda: Mover la serpiente hacia la izquierda.
+
 Flecha Derecha: Mover la serpiente hacia la derecha.
+
 
 ## Puntuación
 
