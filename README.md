@@ -1,6 +1,6 @@
 # Snake Game en Python con Turtle
 
-Este es un simple juego de la serpiente implementado en Python utilizando el módulo Turtle.
+Este el mítico juego de la serpiente, implementado en Python utilizando el módulo Turtle.
 
 ## Características
 
